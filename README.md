@@ -23,6 +23,9 @@ To run the simulation, ensure you have MATLAB installed on your system. Open the
 
 The script offers two modes of visualization:
 
+![3D Rendering - 1](images/ex1.png)
+![3D Rendering - 2](images/ex2.png)
+
 - **3D Rendering:** Displays the evolving structure in 3D space, allowing for rotation and zooming to explore the object's complexity.
 - **2D Projection:** Shows a 2D projection of the object, including an outline of its boundary for a clearer understanding of its shape.
 
@@ -33,3 +36,5 @@ Users are encouraged to experiment with the parameters to explore different grow
 ## Contributions
 
 Contributions are welcome. If you have ideas for improvements or new features, please feel free to fork the repository and submit a pull request.
+
+
